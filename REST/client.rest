@@ -1,0 +1,11 @@
+### teste de conexão
+GET http://localhost:3000
+
+### Teste POST
+POST http://localhost:3000
+Content-Type: application/json
+
+{
+    "name": "Alexandre",
+    "email": "ale@yahoo.com.br"
+}
